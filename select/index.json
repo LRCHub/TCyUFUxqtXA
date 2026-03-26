@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Lonely Child",
+  "base_artist": "BAD HOP",
+  "createdAt": "2026-03-26T01:06:29.290379Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lonely Child",
+      "artist": "YoungBoy Never Broke Again",
+      "has_synced": true,
+      "path": "select/01_Lonely_Child_YoungBoy_Never_Broke_Again.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "lonely child",
+      "artist": "Christina Perri",
+      "has_synced": true,
+      "path": "select/02_lonely_child_Christina_Perri.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lonely Child",
+      "artist": "Styx",
+      "has_synced": false,
+      "path": "select/03_Lonely_Child_Styx.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'm Only A Lonely Child",
+      "artist": "Bonnie Tyler",
+      "has_synced": true,
+      "path": "select/04_I'm_Only_A_Lonely_Child_Bonnie_Tyler.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Am an Ugly Brunette... I Want to Have a Lonely Child",
+      "artist": "Horse Jumper of Love",
+      "has_synced": false,
+      "path": "select/05_I_Am_an_Ugly_Brunette..._I_Want_to_Have_a_Lonely_Child_Horse_Jumper_of_Love.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lonely Child",
+      "artist": "Boomkat",
+      "has_synced": true,
+      "path": "select/06_Lonely_Child_Boomkat.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I’m Only a Lonely Child",
+      "artist": "Bonnie Tyler",
+      "has_synced": true,
+      "path": "select/07_I’m_Only_a_Lonely_Child_Bonnie_Tyler.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lonely Child",
+      "artist": "Club Version",
+      "has_synced": false,
+      "path": "select/08_Lonely_Child_Club_Version.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "YoungBoy Never Broke Again - Lonely Child [Official Audio]",
+      "artist": "YoungBoy Never Broke Again",
+      "has_synced": true,
+      "path": "select/09_YoungBoy_Never_Broke_Again_-_Lonely_Child_[Official_Audio]_YoungBoy_Never_Broke_Again.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lonely Child",
+      "artist": "YoungBoy Never Broke Again",
+      "has_synced": true,
+      "path": "select/10_Lonely_Child_YoungBoy_Never_Broke_Again.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lonely Child (Satoshi Tomiie 3D remix dub)",
+      "artist": "Slok",
+      "has_synced": false,
+      "path": "select/11_Lonely_Child_(Satoshi_Tomiie_3D_remix_dub)_Slok.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lonely Child (feat. G-k.i.d)",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/12_Lonely_Child_(feat._G-k.i.d)_BAD_HOP.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lonely Child (feat. G-k.i.d)",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/pl_01_Lonely_Child_(feat._G-k.i.d)_BAD_HOP.txt"
+    }
+  ]
+}
